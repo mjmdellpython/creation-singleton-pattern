@@ -1,0 +1,16 @@
+C:\Users\mjmde\Desktop\vs\CreationPattren\singleTon\singleTon\bin\Debug\net5.0\singleTon.exe
+C:\Users\mjmde\Desktop\vs\CreationPattren\singleTon\singleTon\bin\Debug\net5.0\singleTon.deps.json
+C:\Users\mjmde\Desktop\vs\CreationPattren\singleTon\singleTon\bin\Debug\net5.0\singleTon.runtimeconfig.json
+C:\Users\mjmde\Desktop\vs\CreationPattren\singleTon\singleTon\bin\Debug\net5.0\singleTon.runtimeconfig.dev.json
+C:\Users\mjmde\Desktop\vs\CreationPattren\singleTon\singleTon\bin\Debug\net5.0\singleTon.dll
+C:\Users\mjmde\Desktop\vs\CreationPattren\singleTon\singleTon\bin\Debug\net5.0\ref\singleTon.dll
+C:\Users\mjmde\Desktop\vs\CreationPattren\singleTon\singleTon\bin\Debug\net5.0\singleTon.pdb
+C:\Users\mjmde\Desktop\vs\CreationPattren\singleTon\singleTon\obj\Debug\net5.0\singleTon.csproj.AssemblyReference.cache
+C:\Users\mjmde\Desktop\vs\CreationPattren\singleTon\singleTon\obj\Debug\net5.0\singleTon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mjmde\Desktop\vs\CreationPattren\singleTon\singleTon\obj\Debug\net5.0\singleTon.AssemblyInfoInputs.cache
+C:\Users\mjmde\Desktop\vs\CreationPattren\singleTon\singleTon\obj\Debug\net5.0\singleTon.AssemblyInfo.cs
+C:\Users\mjmde\Desktop\vs\CreationPattren\singleTon\singleTon\obj\Debug\net5.0\singleTon.csproj.CoreCompileInputs.cache
+C:\Users\mjmde\Desktop\vs\CreationPattren\singleTon\singleTon\obj\Debug\net5.0\singleTon.dll
+C:\Users\mjmde\Desktop\vs\CreationPattren\singleTon\singleTon\obj\Debug\net5.0\ref\singleTon.dll
+C:\Users\mjmde\Desktop\vs\CreationPattren\singleTon\singleTon\obj\Debug\net5.0\singleTon.pdb
+C:\Users\mjmde\Desktop\vs\CreationPattren\singleTon\singleTon\obj\Debug\net5.0\singleTon.genruntimeconfig.cache
