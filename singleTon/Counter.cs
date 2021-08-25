@@ -10,14 +10,30 @@ namespace singleTon
     {
         public int count = 0;
 
-        public static Counter c = new Counter();
-        public int counts() 
+        private static Counter c = new Counter();
+        public virtual int counts()
         {
             return count++;
         }
+        private static object threadObj = new object();// double thread
 
         public static Counter cMethod()
         {
+            if (c == null)// for duble thread save
+            {
+                lock (threadObj)// for save double thread
+                {
+                    //Lazy call
+                    //**
+                    if (c == null)
+                    {
+                        c = new Counter();//normal using
+                    }
+                    //***
+                }
+            }
+            
+
             return c;
         }
     }
